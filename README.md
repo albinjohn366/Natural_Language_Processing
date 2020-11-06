@@ -9,4 +9,4 @@ Using Naive bayes network to classify sentences. Online feedback is used as
    shopping website is used for training and experimenting the program.
    The data provided for training is less, hence the range in which the
     program can perform is less. Providing more information or data can lead
-     to better performance
+     to better performance.
