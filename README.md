@@ -12,3 +12,8 @@ Creating systems that could understand and process natural language, thereby
        the words that are more frequently used in the particular document
         compared to all other documents. Various data sets of function words
          and list of documents are needed for this process.
+         
+         The value of log(number of documents / no of documents containing
+          words) is multiplied with the frequency of occurance of each word
+           in a document avoiding functional words is used to get the best
+            result.
