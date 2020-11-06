@@ -1,6 +1,5 @@
 import os
 import nltk
-import sys
 import math
 
 
